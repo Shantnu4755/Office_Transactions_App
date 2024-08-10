@@ -1,6 +1,4 @@
-
-```markdown
-# 🎉 Office Transaction System 🎉
+# **🌟 OFFICE TRANSACTION SYSTEM 🌟**
 
 Welcome to the **Office Transaction System** - your ultimate tool for effortlessly managing office finances with style! Whether you're tracking credits, debits, or keeping an eye on your running balance, we've got you covered. Let's dive into the details and see what makes this app stand out!
 
@@ -35,7 +33,7 @@ Ready to bring your transaction management to the next level? Follow these simpl
 2. **Install Dependencies**:
    ```bash
    pip install streamlit pymongo pandas
-   ```
+
 3. **Run the App**:
    ```bash
    streamlit run app.py
