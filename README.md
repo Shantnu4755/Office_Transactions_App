@@ -43,4 +43,3 @@ Ready to bring your transaction management to the next level? Follow these simpl
 Thank you for checking out the Office Transaction System! We hope it simplifies your financial management and adds a touch of brilliance to your office operations. 🌟
 
 **For any questions or feedback, feel free to reach out.** Let's make financial tracking fabulous! 🚀💼
-```
