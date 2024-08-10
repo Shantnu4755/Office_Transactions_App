@@ -1,4 +1,3 @@
-Here's a unique and catchy Markdown file for your "Office Transaction System" project:
 
 ```markdown
 # 🎉 Office Transaction System 🎉
