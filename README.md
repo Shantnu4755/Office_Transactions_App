@@ -44,5 +44,3 @@ Thank you for checking out the Office Transaction System! We hope it simplifies 
 
 **For any questions or feedback, feel free to reach out.** Let's make financial tracking fabulous! 🚀💼
 ```
-
-This version uses engaging language and highlights the features in a visually appealing way to make the document stand out.
